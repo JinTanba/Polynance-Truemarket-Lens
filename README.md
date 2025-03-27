@@ -1,4 +1,3 @@
-## Polynance Truemarket Helper
 # Polynance 🤝 Truemarket
 **Polynance Truemarket Helper** is a Solidity-based utility for interacting with the Polynance prediction markets platform. This repository contains a lens contract that provides easy access to Truemarket data on the Base blockchain.
 
