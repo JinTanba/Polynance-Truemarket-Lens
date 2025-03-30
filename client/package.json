@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "polynance_sdk": "^1.0.1-alpha.1",
+    "polynance_sdk": "^1.0.1-alpha.3",
     "viem": "^2.24.1"
   }
 }
